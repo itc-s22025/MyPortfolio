@@ -110,7 +110,9 @@ dd {
     margin-top: 13vh;
 }
 
-
+.my-ul{
+    padding-right: 2rem;
+}
 
 /* contact */
 .required{
