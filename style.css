@@ -1,0 +1,139 @@
+* {
+    /* border: solid 1px #ccc; */
+    /* background-color: #EEEEEE; */
+}
+
+
+li {
+    list-style: none;
+}
+
+
+/* header */
+#header {
+    height: 270px;
+}
+
+.top {
+    margin: 47vh auto
+}
+
+.top ul {
+    display: flex;
+    margin: 0;
+}
+
+.top img {
+    height: 5vh;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    margin: 0;
+}
+
+.my-header {
+    background-color: #00ADB5;
+}
+
+.my-border {
+    /* margin-left: 00px; */
+    border-left: #00ADB5 solid 8px;
+}
+
+.my-p {
+    color: #222831;
+}
+
+.fullpage{
+    background-color: #f5f4f4;
+}
+
+
+
+
+/*固定する背景*/
+.mainvisual-bg {
+    box-sizing: border-box;
+    color: #FFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    padding: 5%;
+    margin: 10% auto;
+}
+
+.mainvisual-img {
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 35vh;
+    /* border-radius: 98% 7% 40% 7%/7% 90% 7% 80%; */
+}
+
+.mainvisual01 {
+    background-image: url(/images/daxue.jpg);
+}
+
+
+/* works */
+
+.wrapper {
+    /* background-color: #EEEEEE; */
+    /* max-width: 1260px; */
+    margin: 40% auto 300px;
+    /* font-size: 1rem; */
+    text-align: center;
+    justify-content: center;
+}
+
+#works ul {
+    display: flex;
+}
+
+/* #works img:hover {
+    border-radius: 100%;
+} */
+
+dt {
+    float: left;
+    clear: left;
+    margin-right: 0.5em;
+    width: 30%;
+}
+
+dd {
+    float: left;
+    margin-left: 1em;
+    width: 60%;
+}
+
+
+/* profile */
+#profile img {
+    border-radius: 100%;
+}
+
+.mgn {
+    margin-top: 13vh;
+}
+
+
+
+/* contact */
+.required{
+    font-size: 0.7rem;
+}
+
+
+/* footer */
+.my-cpr {
+    color: #f5f4f4;
+}
+
+.my-footer {
+    background-color: #00ADB5;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
