@@ -1,6 +1,5 @@
 * {
     /* border: solid 1px #ccc; */
-    /* background-color: #EEEEEE; */
 }
 
 
@@ -69,7 +68,6 @@ li {
     background-size: cover;
     background-repeat: no-repeat;
     height: 35vh;
-    /* border-radius: 98% 7% 40% 7%/7% 90% 7% 80%; */
 }
 
 .mainvisual01 {
@@ -80,10 +78,7 @@ li {
 /* works */
 
 .wrapper {
-    /* background-color: #EEEEEE; */
-    /* max-width: 1260px; */
     margin: 40% auto 300px;
-    /* font-size: 1rem; */
     text-align: center;
     justify-content: center;
 }
@@ -91,10 +86,6 @@ li {
 #works ul {
     display: flex;
 }
-
-/* #works img:hover {
-    border-radius: 100%;
-} */
 
 dt {
     float: left;
