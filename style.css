@@ -30,12 +30,12 @@ li {
 }
 
 .my-header {
-    background-color: #00ADB5;
+    background-color: #627bcc;
 }
 
 .my-border {
     /* margin-left: 00px; */
-    border-left: #00ADB5 solid 8px;
+    border-left: #627bcc solid 8px;
 }
 
 .my-p {
@@ -126,7 +126,7 @@ dd {
 }
 
 .my-footer {
-    background-color: #00ADB5;
+    background-color: #627bcc;
     padding-top: 30px;
     padding-bottom: 10px;
 }
